@@ -1,1 +1,1 @@
-# FB-messenger-bot-using-python-wit.ai
+# FB messenger bot using python and wit.ai
